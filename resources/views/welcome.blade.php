@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Hello Laravel on PaizaCloud!
                 </div>
 
                 <div class="links">
